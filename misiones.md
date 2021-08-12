@@ -1,3 +1,4 @@
 ## Misiones
 
-* Investigar al DR. Doom
+- Investigar al DR. Doom
+- Incendiar la guarida de Scarecrow con el dentro
