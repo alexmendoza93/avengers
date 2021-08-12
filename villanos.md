@@ -3,3 +3,4 @@
 - Doomsday
 - Red skull
 - Scarecrow
+- Jocker
